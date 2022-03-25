@@ -3,3 +3,11 @@
 @tailwind components;
 
 @tailwind utilities;
+
+nav a,
+main a {
+  @apply border-b-[3px] border-green-500;
+  &:hover {
+    @apply text-black bg-green-500;
+  }
+}
