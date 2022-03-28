@@ -1,7 +1,7 @@
 {
-  "name": "windty",
+  "name": "celsomiranda",
   "version": "1.0.0",
-  "description": "Simple 11ty template with tailwind",
+  "description": "Celso's Personal Website",
   "scripts": {
     "start": "run-p start:*",
     "start:eleventy": "eleventy --serve",
@@ -13,21 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/distantcam/windty.git"
+    "url": "https://github.com/celsomiranda/mysite.git"
   },
   "keywords": [
     "eleventy",
     "11ty",
     "tailwind"
   ],
-  "author": "Cam MacFarland",
+  "author": "Celso Miranda",
   "license": "Unlicense",
-  "homepage": "https://github.com/distantcam/windty#readme",
-  "bugs": {
-    "url": "https://github.com/distantcam/windty/issues"
-  },
+  "homepage": "https://github.com/celsomiranda/mysite#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/line-clamp": "^0.3.1",
+    "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.4.4",
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.5",
