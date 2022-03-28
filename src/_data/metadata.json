@@ -1,4 +1,21 @@
 {
   "title": "Celso",
-  "description": "[undefined:36] 🐢"
+  "url": "https://celsomiranda.com",
+  "language": "pt-PT",
+  "description": "[undefined:36] 🐢",
+  "feed": {
+    "subtitle": "[undefined:36] 🐢",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://celsomiranda.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://celsomiranda.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Celso Miranda",
+    "email": "pessoal@celsomiranda.com",
+    "url": "https://celsomiranda.com/eu/"
+  }
 }

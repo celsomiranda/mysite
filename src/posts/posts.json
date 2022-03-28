@@ -1,0 +1,8 @@
+{
+  "layout": "_layouts/post.njk",
+  "permalink": "escritas/{{ title | slug }}/index.html",
+  "author": "Celso Miranda",
+  "tags": [
+    "posts"
+  ]
+}
